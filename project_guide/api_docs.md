@@ -1,5 +1,3 @@
-## Ganesh Ippili
-
 ## User APIs
 
 
